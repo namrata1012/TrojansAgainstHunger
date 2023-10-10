@@ -1,0 +1,67 @@
+=============================================================================================================
+  TABLE INFO
+=============================================================================================================
+
+ID: CBP2018.CB1800ZBP
+Title: All Sectors: ZIP Code Business Patterns by Employment Size Class for 5-digit zipcode level: 2018
+
+=============================================================================================================
+  NOTES
+=============================================================================================================
+
+<p><b>Release Date:</b> 2020-07-23</p>
+
+<p><b>Release Schedule:</b><br>
+The data in this file were released on July 23, 2020.</p>
+
+
+<p><b>Key Table Information:</b><br>
+Beginning with reference year 2007, ZBP data are released using the Noise disclosure methodology to protect confidentiality. See <a href="https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html"> Survey Methodology </a> for complete information on the coverage and methodology of the ZIP Code Business Patterns data series.<br>
+Includes only establishments with payroll.<br>
+Data by employment size class, shown at the 2-6 digit NAICS code levels only contains data on the number of establishments.<br>
+Data shown for NAICS code 00 (Total for all sectors) contains data on the number of establishments, total employment, first quarter payroll, and annual payroll.</p>
+
+<p><b>Data Items and Other Identifying Records:</b><br> 
+This file contains data classified by employment size category of the establishment <br>
+Number of establishments<br>
+Annual payroll ($1,000)<br>
+First-quarter payroll ($1,000)<br>
+Number of employees <br></p>
+
+<p><b>Geography Coverage:</b><br>
+The data are shown at the 5-digit ZIP Code level only. 
+
+<p><b>Industry Coverage:</b><br>
+The data are shown at the 2- through 6- digit NAICS code levels for all sectors with published data, and for NAICS code 00 (Total for all sectors)
+
+<p><b>Footnotes:</b><br>
+Not applicable</p>
+
+<p><b>FTP Download:</b><br>
+Download the entire table at: <a href="https://www2.census.gov/programs-surveys/cbp/data/2018/CB1800ZBP.zip"> https://www2.census.gov/programs-surveys/cbp/data/2018/CB1800ZBP.zip </a></p>
+
+<p><b>API Information:</b><br>
+ZIP Codes Business Patterns (ZBP) data are housed in the ZIP Codes Business Patterns (ZBP) API.  For more information, see <a href=" https://www.census.gov/data/developers/data-sets/cbp-nonemp-zbp/zbp-api.html"> Census.gov: Developers: Available APIs, County Business Patterns and Nonemployer Statistics (1986-2018): ZIP Codes Business Patterns (ZBP) APIs.</a></p>
+
+<p><b>Methodology:</b><br>
+To maintain confidentiality, the U.S. Census Bureau suppresses data to protect the identity of any business or individual. The census results in this file contain sampling and/or nonsampling error. Data users who create their own estimates using data from this file should cite the U.S. Census Bureau as the source of the original data only. </p>
+
+<p>To comply with disclosure avoidance guidelines, data rows with fewer than three contributing establishments are not presented.  Additionally, establishment counts are suppressed when other select statistics in the same row are suppressed.   For detailed information about the methods used to collect and produce statistics, including sampling, eligibility, questions, data collection and processing, data quality, review, weighting, estimation, coding operations, confidentiality protection, sampling error, nonsampling error, and more, see
+<a href="https://www.census.gov/programs-surveys/cbp/technical-documentation/methodology.html"> Economic Census: Technical Documentation: Economic Census Methodology.</a></p> 
+
+<p><b>Symbols:</b><br>
+D - Withheld to avoid disclosing data for individual companies; data are included in higher level totals (used prior to 2017)<br>
+N - Not available or not comparable<br>
+S - Withheld because estimate did not meet publication standards. Employment or payroll field set to zero. <br>
+For a complete list of symbols, see <a href="https://www.census.gov/programs-surveys/cbp/about/glossary.html">County Business Partterns Abbreviations and Symbols Glossary.</a></p>
+
+<p><b>Source:</b><br>
+U.S. Census Bureau, 2018 ZIP Business Patterns<br>
+
+<p><b>Contact Information:</b><br>
+U.S. Census Bureau<br>
+Economy-Wide Statistics Division<br>
+Business Statistics Division<br>
+Tel: (301) 763 - 2580 <br>
+Email: <a href="ewd.county.business.patterns@census.gov"> ewd.county.business.patterns@census.gov </a></p>
+
